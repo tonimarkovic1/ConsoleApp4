@@ -6,9 +6,9 @@ namespace ConsoleApp4
 {
     class NewClass
     {
-        static void metoda1()
+        static int metoda()
         {
-
+            return 1;
         }
     }
 }
